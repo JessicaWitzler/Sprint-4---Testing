@@ -13,12 +13,12 @@ Os testes realizados foram todos ligados ao ***PBI 101 - Criação de Cadastro**
 
 Para este trabalho, realizamos os seguintes testes: 
 
-- **TC101** - Cadastro com dados válidos
-- **TC102** - Campos obrigatórios em branco
-- **TC103** - Validação de formato de e-mail
-- **TC105** - Mensagem de confirmação
-- **TC106** - Login Com Sucesso
-- **TC107** - Login Com Senha Errada
+- **TC01/101** - Cadastro com dados válidos
+- **TC02/101** - Campos obrigatórios em branco
+- **TC03/101** - Validação de formato de e-mail
+- **TC05/101** - Mensagem de confirmação
+- **TC06/101** - Login Com Sucesso
+- **TC07/101** - Login Com Senha Errada
 
 Realizamos os testes através do POSTMAN de forma **automatizada**. 
 
